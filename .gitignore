@@ -1,0 +1,13 @@
+# Python bytecode files
+*.pyc
+*.pyo
+
+# Environment files
+.env
+
+# Database files
+*.db
+*.sqlite
+
+# Virtual environment folder
+venv/
