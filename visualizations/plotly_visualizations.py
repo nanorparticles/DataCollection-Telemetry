@@ -17,7 +17,6 @@ timestamps = [row[0] for row in data]
 cpu_usages = [row[1] for row in data]
 memory_usages = [row[2] for row in data]
 
-# Optional: Clean the data by ensuring there are no invalid or None values
 cpu_usages = [float(value) if isinstance(value, (int, float)) else 0 for value in cpu_usages]
 memory_usages = [float(value) if isinstance(value, (int, float)) else 0 for value in memory_usages]
 
