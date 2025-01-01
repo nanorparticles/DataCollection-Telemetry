@@ -4,11 +4,12 @@ This project implements a telemetry data collection system that gathers system p
 
 # Features
 
-Data Collection: Collect telemetry data such as CPU usage, memory usage, and error rates via HTTP requests.
-SQLite Database: Store telemetry data in an SQLite database for easy management and retrieval.
-Data Visualization: Visualize telemetry data using Plotly for better insights into system behavior.
-Flask Backend: A Flask web application that handles incoming telemetry data and stores it in the database.
-Technologies Used
+* Data Collection: Collect telemetry data such as CPU usage, memory usage, and error rates via HTTP requests.
+* SQLite Database: Store telemetry data in an SQLite database for easy management and retrieval.
+* Data Visualization: Visualize telemetry data using Plotly for better insights into system behavior.
+* Flask Backend: A Flask web application that handles incoming telemetry data and stores it in the database.
+  
+# Technologies Used
 Flask: Lightweight Python web framework for handling HTTP requests.
 SQLite: Relational database used to store telemetry data.
 Plotly: Data visualization library to plot the telemetry data.
