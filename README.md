@@ -10,8 +10,8 @@ This project implements a telemetry data collection system that gathers system p
 * Flask Backend: A Flask web application that handles incoming telemetry data and stores it in the database.
   
 # Technologies Used
-Flask: Lightweight Python web framework for handling HTTP requests.
-SQLite: Relational database used to store telemetry data.
-Plotly: Data visualization library to plot the telemetry data.
-SQLAlchemy: ORM to interact with the SQLite database seamlessly.
-Python: Programming language for the backend logic and data manipulatio
+* Flask: Lightweight Python web framework for handling HTTP requests.
+* SQLite: Relational database used to store telemetry data.
+* Plotly: Data visualization library to plot the telemetry data.
+* SQLAlchemy: ORM to interact with the SQLite database seamlessly.
+* Python: Programming language for the backend logic and data manipulatio
