@@ -1,6 +1,6 @@
 # Data Collection & Telemetry System
 
-This project implements a telemetry data collection system that gathers system performance metrics (CPU usage, memory usage, error rates) and stores them in a SQLite database. The system allows you to visualize the collected data using Plotly for insights into system performance over time.
+This project implements a telemetry data collection system that gathers system performance metrics (CPU usage, memory usage) and stores them in a SQLite database. The system allows you to visualize the collected data using Plotly for insights into system performance over time.
 
 # Features
 
