@@ -14,4 +14,4 @@ This project implements a telemetry data collection system that gathers system p
 * SQLite: Relational database used to store telemetry data.
 * Plotly: Data visualization library to plot the telemetry data.
 * SQLAlchemy: ORM to interact with the SQLite database seamlessly.
-* Python: Programming language for the backend logic and data manipulatio
+* Python: Programming language for the backend logic and data manipulation
