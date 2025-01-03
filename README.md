@@ -1,10 +1,10 @@
 # Data Collection & Telemetry System
 
-This project implements a telemetry data collection system that gathers system performance metrics (CPU usage, memory usage) and stores them in a SQLite database. The system allows you to visualize the collected data using Plotly for insights into system performance over time.
+This project implements a telemetry data collection system that gathers system performance metrics (CPU usage, memory usage, error rate) and stores them in a SQLite database. The system allows you to visualize the collected data using Plotly for insights into system performance over time.
 
 # Features
 
-* Data Collection: Collect telemetry data such as CPU usage, and memory usages via HTTP requests.
+* Data Collection: Collect telemetry data such as CPU usage, memory usages, and erorr rates via HTTP requests.
 * SQLite Database: Store telemetry data in an SQLite database for easy management and retrieval.
 * Data Visualization: Visualize telemetry data using Plotly for better insights into system behavior.
 * Flask Backend: A Flask web application that handles incoming telemetry data and stores it in the database.
